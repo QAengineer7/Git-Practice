@@ -6,3 +6,4 @@ Created by TESTEngineer
 
 i leared git.
 Learning git restore staged.
+This is my Git Reset practice.
