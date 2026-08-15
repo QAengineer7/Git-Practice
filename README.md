@@ -10,3 +10,4 @@ This is my Git Reset practice.
 GitHub fetch and pull practice.
 Conflict practice from master branch.
 Conflict practice from feature branch.
+Changes reviewed and look good.
